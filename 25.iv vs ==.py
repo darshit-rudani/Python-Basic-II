@@ -1,0 +1,10 @@
+print(1 == 1)
+print([] == [])
+print(True == 1)
+print('1' == 1)
+print([1] == 1)
+
+print(1 is 1)
+print(True is 1)
+print([1] is 0)
+print([] is 0)
